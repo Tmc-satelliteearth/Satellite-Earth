@@ -1,10 +1,1 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.live.earth.map.satellite.earth.landmarks.live.earth.cam",
-      "sha256_cert_fingerprints": ["4C:F0:0E:81:A8:C7:84:76:B5:E4:0D:AE:71:4C:58:E2:E1:6B:35:AE:81:8E:15:C0:49:1A:87:CE:53:29:32:AF"]
-    }
-  }
-]
+[{  "relation": [    "delegate_permission/common.handle_all_urls"  ],  "target": {    "namespace": "android_app",    "package_name": "com.live.earth.map.satellite.earth.landmarks.live.earth.cam",    "sha256_cert_fingerprints": [      "BD:DB:63:00:10:B4:4E:22:B7:FC:15:BA:3D:86:74:BA:08:FF:1D:88:BF:C4:97:6F:08:DD:D1:06:76:58:5F:80"    ]  }}] 
